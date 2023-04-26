@@ -61,7 +61,7 @@ jobs:
 
 ### Example Project
 
-For a working project refer to [jacoco-playgound](https://github.com/thsaravana/jacoco-playground). Check out the PR's in
+For a working project refer to the [jacoco-playgound](https://github.com/thsaravana/jacoco-playground). Check out the PR's in
 the project to get an idea on how the report is shown on a pull request comment.
 For multi module gradle project, refer [jacoco-android-playground](https://github.com/thsaravana/jacoco-android-playground)
 
